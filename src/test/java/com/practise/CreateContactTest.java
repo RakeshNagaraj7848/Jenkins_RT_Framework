@@ -18,5 +18,9 @@ public class CreateContactTest {
 	public void deleteContatcWithMandatoryTest() {
 		System.out.println("deleteContacWithMandatoryTest executed ");
 	}
+      @Test
+	public void deleteContatcWithMandatoryTest2() {
+		System.out.println("deleteContacWithMandatoryTest2 executed ");
+	}
 
 }

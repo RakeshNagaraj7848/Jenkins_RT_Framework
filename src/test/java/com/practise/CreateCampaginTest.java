@@ -26,5 +26,11 @@ public class CreateCampaginTest {
 	public void deleteCampaginWithMandatoryTest() {
 		System.out.println("deleteCampaginWithMandatoryTest executed ");
 	}
+      
+        @Test
+	public void deleteCampaginWithMandatoryTest2() {
+		System.out.println("deleteCampaginWithMandatoryTest2 executed ");
+	}
+
 
 }
