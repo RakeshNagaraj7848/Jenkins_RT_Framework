@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-05T15:47:59 IST" name="Default suite" finished-at="2024-10-05T15:49:35 IST" duration-ms="96240">
+    <groups>
+    </groups>
+    <test started-at="2024-10-05T15:47:59 IST" name="Default test" finished-at="2024-10-05T15:49:35 IST" duration-ms="96240">
+      <class name="com.practise.IncognitoModelTest">
+        <test-method signature="incognitoModelTest()[pri:0, instance:com.practise.IncognitoModelTest@459e9125]" started-at="2024-10-05T15:47:59 IST" name="incognitoModelTest" finished-at="2024-10-05T15:49:35 IST" duration-ms="96108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incognitoModelTest -->
+      </class> <!-- com.practise.IncognitoModelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
